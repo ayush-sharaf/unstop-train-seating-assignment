@@ -2,6 +2,10 @@
 
 A simple and efficient train seat reservation system built with Angular that allows users to book seats with smart seat allocation logic.
 
+## Live Demo
+
+🚀 [Live Demo](https://unstop-train-seating-assignment.vercel.app/)
+
 ## Features
 
 - 80 seats coach layout with 7 seats per row (last row: 3 seats)
